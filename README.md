@@ -1,12 +1,10 @@
 # Codeigniter4-HMVC
 
-[![<ORG_NAME>](https://circleci.com/gh/MufidJamaluddin/Codeigniter4-HMVC.svg?style=svg)](https://circleci.com/gh/MufidJamaluddin/Codeigniter4-HMVC)
-
 This is my version of Hierarchical model–view–controller (HMVC) project starter using CodeIgniter4 framework. By HMVC architecture, I hope we could make scalable web application. 
 
 ### Screenshot Example
 
-![Home Page](assets/images/images/home-ci4-hmvc.png)
+![Home Page](assets/images/home-ci4-hmvc.png)
 
 <br/>
 
@@ -41,7 +39,7 @@ Templates
 
 ### Screenshot Folder
 
-![Create Folder](assets/images/images/folder.png)
+![Create Folder](assets/images/folder.png)
 
 ### Custom Structure
 
