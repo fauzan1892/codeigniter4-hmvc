@@ -3,7 +3,7 @@
  * Created by Codekop - HMVC v1.0
  * 
  * This is files helper function
- * fpr enabled this helper function to file Templates\Controllers\BaseController
+ * for enabled this helper function to file Templates\Controllers\BaseController
  * 
  */
 
