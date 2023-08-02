@@ -1,6 +1,6 @@
 # Codeigniter4-HMVC
 
-This is my version of Hierarchical model–view–controller (HMVC) project starter using CodeIgniter4 framework. By HMVC architecture, I hope we could make scalable web application. 
+This is my version of Hierarchical model–view–controller (HMVC) project starter using CodeIgniter4 framework.
 
 ### Screenshot Example
 
